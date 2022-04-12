@@ -1,4 +1,4 @@
-var day = new Date(2022, 04, 23, 19, 50);
+var day = new Date(2022, 05, 02, 16, 40);
 
 function formatTime(r) {
     let leftTime = new Date(r);
